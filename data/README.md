@@ -34,5 +34,6 @@ The following types of analyses are performed:
 
 The analysis of the SCF data provides insights into the financial well-being of families in the United States. The findings suggest that education, income, and debt are important factors that contribute to financial stability. Further research could be conducted to explore these relationships in more detail.
 
-Fill in the fields to see the markdown badge snippet.
-Fill in the fields to see the rST badge snippet.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bkmarwen/ad/main?labpath=https%3A%2F%2Fgithub.com%2Fbkmarwen%2Fad%2Fblob%2Fmain%2Fdata%2Freqs%2Findex.ipynb)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/bkmarwen/ad/main?labpath=https%3A%2F%2Fgithub.com%2Fbkmarwen%2Fad%2Fblob%2Fmain%2Fdata%2Freqs%2Findex.ipynb
