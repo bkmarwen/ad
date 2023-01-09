@@ -44,5 +44,4 @@ Dans l'ensemble, notre analyse nous a permis de mieux comprendre les difficulté
 qui ont été refusés de crédit par le passé. Cette information sera précieuse pour l'élaboration de décisions politiques et pour améliorer le bien-être 
 financier de ces ménages.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bkmarwen/ad/main?labpath=https%3A%2F%2Fgithub.com%2Fbkmarwen%2Fad%2Fblob%2Fmain%2Fdata%2Freqs%2Findex.ipynb).. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/bkmarwen/ad/main?labpath=https%3A%2F%2Fgithub.com%2Fbkmarwen%2Fad%2Fblob%2Fmain%2Fdata%2Freqs%2Findex.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bkmarwen/ad/main?urlpath=https%3A%2F%2Fgithub.com%2Fbkmarwen%2Fad%2Fblob%2Fmain%2Fdata%2Freqs%2Findex.ipynb)
