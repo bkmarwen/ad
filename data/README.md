@@ -32,16 +32,10 @@ The following types of analyses are performed:
 
 ## Conclusion
 
-Nos résultats ont montré que les ménages plus jeunes et à faible revenu étaient plus enclins à être inquiets quant à leur approbation de crédit.
- Nous avons également constaté que les ménages blancs/non-hispaniques étaient plus susceptibles d'être dans le groupe crédit craintif, 
-tandis que les ménages noirs et hispaniques étaient également plus susceptibles de se trouver dans ce groupe.
+Our findings showed that younger, low-income households were more likely to be worried about being approved for credit. We also found that white/non-Hispanic households were more likely to be in the credit fearful group, while black and Hispanic households were more likely to be in this group as well.
 
-Nous avons également constaté que les ménages crédit craintifs avaient des revenus plus faibles et étaient plus enclins à avoir seulement un 
-diplôme d'études secondaires. En termes de dette, nous avons découvert que la principale source de dette pour les ménages crédit craintifs était 
-leur résidence principale.
+We also found that credit fearful households had lower incomes and were more likely to have only a high school diploma. In terms of debt, we discovered that the main source of debt for credit fearful households was their primary residence.
 
-Dans l'ensemble, notre analyse nous a permis de mieux comprendre les difficultés financières et les défis auxquels sont confrontés les ménages 
-qui ont été refusés de crédit par le passé. Cette information sera précieuse pour l'élaboration de décisions politiques et pour améliorer le bien-être 
-financier de ces ménages.
+Overall, our analysis gave us a deeper understanding of the financial struggles and challenges faced by households that have been denied credit in the past. This information will be valuable in informing policy decisions and helping to improve the financial well-being of these households.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bkmarwen/ad/main)
