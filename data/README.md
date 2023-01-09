@@ -32,8 +32,17 @@ The following types of analyses are performed:
 
 ## Conclusion
 
-The analysis of the SCF data provides insights into the financial well-being of families in the United States. The findings suggest that education, income, and debt are important factors that contribute to financial stability. Further research could be conducted to explore these relationships in more detail.
+Nos résultats ont montré que les ménages plus jeunes et à faible revenu étaient plus enclins à être inquiets quant à leur approbation de crédit.
+ Nous avons également constaté que les ménages blancs/non-hispaniques étaient plus susceptibles d'être dans le groupe crédit craintif, 
+tandis que les ménages noirs et hispaniques étaient également plus susceptibles de se trouver dans ce groupe.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bkmarwen/ad/main?labpath=https%3A%2F%2Fgithub.com%2Fbkmarwen%2Fad%2Fblob%2Fmain%2Fdata%2Freqs%2Findex.ipynb)
-.. image:: https://mybinder.org/badge_logo.svg
+Nous avons également constaté que les ménages crédit craintifs avaient des revenus plus faibles et étaient plus enclins à avoir seulement un 
+diplôme d'études secondaires. En termes de dette, nous avons découvert que la principale source de dette pour les ménages crédit craintifs était 
+leur résidence principale.
+
+Dans l'ensemble, notre analyse nous a permis de mieux comprendre les difficultés financières et les défis auxquels sont confrontés les ménages 
+qui ont été refusés de crédit par le passé. Cette information sera précieuse pour l'élaboration de décisions politiques et pour améliorer le bien-être 
+financier de ces ménages.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bkmarwen/ad/main?labpath=https%3A%2F%2Fgithub.com%2Fbkmarwen%2Fad%2Fblob%2Fmain%2Fdata%2Freqs%2Findex.ipynb).. image:: https://mybinder.org/badge_logo.svg
  :target: https://mybinder.org/v2/gh/bkmarwen/ad/main?labpath=https%3A%2F%2Fgithub.com%2Fbkmarwen%2Fad%2Fblob%2Fmain%2Fdata%2Freqs%2Findex.ipynb
